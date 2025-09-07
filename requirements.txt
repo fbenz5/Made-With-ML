@@ -1,4 +1,5 @@
 # Default
+setuptools==65.5.0
 hyperopt==0.2.7
 ipywidgets>=8
 matplotlib==3.7.1
